@@ -1,0 +1,6 @@
+numpy~=1.26.4
+matplotlib~=3.7.5
+scikit-learn~=1.5.2
+pillow~=11.3.0
+scipy~=1.11.4
+librosa~=0.10.1
